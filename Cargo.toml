@@ -1,0 +1,15 @@
+[package]
+name = "hello-rocket"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rocket = { version = "0.5.0", features = ["json"] }
+tokio-postgres = "0.7"
+tokio = { version = "1", features = ["full"] }
+postgres = "0.19.12"
+postgres-native-tls = "0.5.2"
+native-tls = "0.2.14"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+dotenv = "0.15.0"

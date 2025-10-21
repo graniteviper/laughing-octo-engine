@@ -1,0 +1,11 @@
+C:\Users\TANISHQ\Desktop\VS CODE\Rust\hello-rocket\target\debug\deps\uncased-c269085b3c3d145c.d: C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\lib.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\serde.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\owned.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\borrowed.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\as_uncased.rs
+
+C:\Users\TANISHQ\Desktop\VS CODE\Rust\hello-rocket\target\debug\deps\libuncased-c269085b3c3d145c.rlib: C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\lib.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\serde.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\owned.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\borrowed.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\as_uncased.rs
+
+C:\Users\TANISHQ\Desktop\VS CODE\Rust\hello-rocket\target\debug\deps\libuncased-c269085b3c3d145c.rmeta: C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\lib.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\serde.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\owned.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\borrowed.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\as_uncased.rs
+
+C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\lib.rs:
+C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\serde.rs:
+C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\owned.rs:
+C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\borrowed.rs:
+C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\as_uncased.rs:
