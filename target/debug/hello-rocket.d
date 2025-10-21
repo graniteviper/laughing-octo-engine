@@ -1,1 +1,0 @@
-C:\Users\TANISHQ\Desktop\VS\ CODE\Rust\hello-rocket\target\debug\hello-rocket.exe: C:\Users\TANISHQ\Desktop\VS\ CODE\Rust\hello-rocket\src\client.rs C:\Users\TANISHQ\Desktop\VS\ CODE\Rust\hello-rocket\src\main.rs

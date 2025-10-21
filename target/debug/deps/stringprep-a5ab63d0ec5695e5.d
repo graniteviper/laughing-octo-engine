@@ -1,7 +1,0 @@
-C:\Users\TANISHQ\Desktop\VS CODE\Rust\hello-rocket\target\debug\deps\stringprep-a5ab63d0ec5695e5.d: C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\lib.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\rfc3454.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\tables.rs
-
-C:\Users\TANISHQ\Desktop\VS CODE\Rust\hello-rocket\target\debug\deps\libstringprep-a5ab63d0ec5695e5.rmeta: C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\lib.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\rfc3454.rs C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\tables.rs
-
-C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\lib.rs:
-C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\rfc3454.rs:
-C:\Users\TANISHQ\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\tables.rs:
