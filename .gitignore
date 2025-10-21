@@ -1,1 +1,14 @@
+# Rust build output
+/target/
+
+# Dependencies
+Cargo.lock
+
+# IDE/editor stuff
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
 .env
